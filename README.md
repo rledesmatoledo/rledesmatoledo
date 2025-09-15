@@ -6,7 +6,7 @@
 
 💻 I’m a **Computer Science**  major at **San Francisco State University**  
 
-🧑‍💻 Programming Languages: Java, C++, Python, and Assembly 
+🧑‍💻 Programming Languages: Java, C++, and Python
 
 🔍 I’m interested in Software Engineering, Web Development, and possibly UI/UX Design
 
