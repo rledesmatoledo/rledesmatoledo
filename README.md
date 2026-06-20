@@ -13,7 +13,7 @@
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/robertoledesma01/)
-- [Email](robertoledesma015@gmail.com)
+- [Email] - robertoledesma015@gmail.com
 <!--
 **rledesmatoledo/rledesmatoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
